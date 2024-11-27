@@ -10,7 +10,7 @@ int main(){
 		++i;
 	}
 	if(even){
-			printf(" ko co so even\n");
+			printf(" ko co so chan\n");
 		}
 	return 0;
 }
