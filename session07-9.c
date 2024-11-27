@@ -10,7 +10,7 @@ int main() {
 	while(i<n){
 		j=0;
         while(j<m){
-            printf("nhap gia tri vi tri cot %d hang %d: ",i+1,j+1);
+            printf("nhap gia tri vi tri hang %d cot %d: ",i+1,j+1);
             scanf("%d", &arr[i][j]);
             j++;
         }
