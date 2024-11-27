@@ -8,7 +8,7 @@ int main(){
 		++i;
 	}
 	i=0;
-	while(i<=sizeof(arr)/sizeof(arr[0])){
+	while(i<sizeof(arr)/sizeof(arr[0])){
 		printf("arr[%d]=%d\n",i,arr[i]);
 		++i;
 	};
